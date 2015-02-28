@@ -2,12 +2,12 @@
 Contributors: whometrics
 Tags: survey, demographics, whometrics, audience, media kit, advertising, advertise, ads, analytics
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: 4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Who Metrics is a free audience measurement service which reports demographics of website visitors.
+Who Metrics is a free audience measurement service which reports reach, demographics and behaviours of website visitors.
 
 == Description ==
 
@@ -34,3 +34,6 @@ Please contact us at www.whometrics.com for all troubleshooting.
 
 = 1.01 =
 * Update to remove some nessisary files so the plugin loads faster
+
+= 1.02 =
+* Minor change to clean up function names to ensure they do not clash with other themes / plugins.
